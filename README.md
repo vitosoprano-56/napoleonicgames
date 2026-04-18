@@ -1,0 +1,2 @@
+# napoleonicgames
+Full READ.ME ON HOW TO CODE NAPOLEONIC GAMES STYLE
